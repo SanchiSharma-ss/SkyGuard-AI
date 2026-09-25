@@ -1,0 +1,23 @@
+{
+    "temperature_fault_type": {
+        "normal": 29703,
+        "stuck": 210,
+        "spike": 200,
+        "drift": 199,
+        "drop": 192
+    },
+    "humidity_fault_type": {
+        "normal": 29671,
+        "drift": 215,
+        "stuck": 212,
+        "drop": 204,
+        "spike": 202
+    },
+    "pressure_fault_type": {
+        "normal": 29589,
+        "spike": 237,
+        "drift": 232,
+        "stuck": 227,
+        "drop": 219
+    }
+}

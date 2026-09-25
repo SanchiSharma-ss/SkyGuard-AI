@@ -1,0 +1,39 @@
+{
+    "features": [
+        "T2M",
+        "RH2M",
+        "PS",
+        "T2M_diff",
+        "RH2M_diff",
+        "PS_diff",
+        "T2M_pct_change",
+        "RH2M_pct_change",
+        "PS_pct_change",
+        "T2M_rolling_mean_6",
+        "RH2M_rolling_mean_6",
+        "PS_rolling_mean_6",
+        "T2M_rolling_std_6",
+        "RH2M_rolling_std_6",
+        "PS_rolling_std_6",
+        "T2M_local_z",
+        "RH2M_local_z",
+        "PS_local_z",
+        "T2M_RH2M_ratio",
+        "T2M_PS_ratio",
+        "T2M_RH2M_difference",
+        "T2M_PS_difference"
+    ],
+    "target_columns": {
+        "T2M": "temperature_fault_type",
+        "RH2M": "humidity_fault_type",
+        "PS": "pressure_fault_type"
+    },
+    "sensors": [
+        "T2M",
+        "RH2M",
+        "PS"
+    ],
+    "model": "RandomForestClassifier",
+    "n_estimators": 300,
+    "random_state": 42
+}

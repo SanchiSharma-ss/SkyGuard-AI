@@ -1,0 +1,11 @@
+{
+    "total_sensor_health_records": 123,
+    "total_stations": 41,
+    "average_sensor_health": 86.98,
+    "minimum_sensor_health": 84.66,
+    "maximum_sensor_health": 91.15,
+    "status_distribution": {
+        "HEALTHY": 110,
+        "EXCELLENT": 13
+    }
+}

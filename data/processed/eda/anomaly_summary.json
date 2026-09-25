@@ -1,0 +1,18 @@
+{
+    "temperature_anomaly": {
+        "count": 801,
+        "percentage": 2.62588512981904
+    },
+    "humidity_anomaly": {
+        "count": 833,
+        "percentage": 2.7307894046682404
+    },
+    "pressure_anomaly": {
+        "count": 915,
+        "percentage": 2.9996066089693154
+    },
+    "any_anomaly": {
+        "count": 2478,
+        "percentage": 8.123524783634933
+    }
+}

@@ -1,0 +1,6 @@
+,predicted_drift,predicted_drop,predicted_normal,predicted_spike,predicted_stuck
+actual_drift,35,4,6,2,0
+actual_drop,0,26,3,0,0
+actual_normal,2,0,5744,0,7
+actual_spike,0,0,4,24,0
+actual_stuck,0,0,45,0,2

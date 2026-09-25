@@ -1,0 +1,28 @@
+{
+    "total_records": 5904,
+    "actual_anomalies": 491,
+    "predicted_anomalies": 1326,
+    "precision": 0.14630467571644043,
+    "recall": 0.395112016293279,
+    "f1": 0.21353880022014313,
+    "false_positive_rate": 0.20912617772030298,
+    "true_positives": 194,
+    "false_positives": 1132,
+    "true_negatives": 4281,
+    "false_negatives": 297,
+    "average_fusion_score": 0.5000846883468835,
+    "average_confidence": 34.986756436314366,
+    "detector_vote_distribution": {
+        "0": 3078,
+        "1": 1500,
+        "2": 564,
+        "3": 601,
+        "4": 161
+    },
+    "severity_distribution": {
+        "NORMAL": 4578,
+        "HIGH": 874,
+        "MEDIUM": 291,
+        "CRITICAL": 161
+    }
+}
